@@ -7,5 +7,6 @@ public class hello {
         System.out.println("worker");
         System.out.println("woker2");
         System.out.println("new master");
+        System.out.println("new master back");
     }
 }
