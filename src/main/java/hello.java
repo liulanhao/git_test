@@ -6,5 +6,6 @@ public class hello {
         System.out.println("worker2");
         System.out.println("worker");
         System.out.println("woker2");
+        System.out.println("new master");
     }
 }
